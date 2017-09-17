@@ -12,12 +12,16 @@ container   指定加载容器中的图片 默认document
 # 使用
 <script src="lazyImg.js"></script>
 //带参数
+``` javascript
 lazyImg({
       container: 'container',
       placeholder: './image/0.jpg',
       event:'click',
       effect:'scale'
  })
+ ```
  
  //默认参数
+ ``` javascript
  lazyImg();
+ ``` 
