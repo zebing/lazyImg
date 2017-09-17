@@ -10,7 +10,7 @@
 **container**  指定加载容器中的图片 默认document
 
 ### 使用
-//带参数
+带参数
 ``` javascript
 <script src="lazyImg.js"></script>
 lazyImg({
@@ -21,7 +21,7 @@ lazyImg({
  });
  ```
  
- //默认参数
+ 默认参数
  ``` javascript
  <script src="lazyImg.js"></script>
  lazyImg();
