@@ -18,5 +18,6 @@ lazyImg({
       event:'click',
       effect:'scale'
  })
+ 
  //默认参数
  lazyImg();
